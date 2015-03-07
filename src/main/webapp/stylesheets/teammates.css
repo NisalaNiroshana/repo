@@ -208,9 +208,9 @@ h2 {
 #caption {
     margin: 30px auto;
     width: 800px;
-    color: #e46d0b;
-    font-weight: bold;
-    font-size: 20px;
+    color: #98AFC7;
+    font-weight: ;
+    font-size: 22px;
     font-family: Arial, Verdana, Sans-Serif;
 }
 
@@ -252,7 +252,7 @@ h2.subcaption {
 
 .overviewByteData {
     float: right;
-    width: 600px;
+    width: 590px;
     padding-left: 30px;
     color: gray;
 }
@@ -358,4 +358,11 @@ h2.subcaption {
     list-style-type :disc;
     padding: 5px;
     font-size: 14px;
+}
+
+#overviewByteContainer{
+    border: 2px solid;
+    border-radius: 25px;
+    color:#D1D0CE;
+} 
 }
